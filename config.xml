@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.voltbuilder.sample" xmlns="http://www.w3.org/ns/widgets" version="1.0.0">
+  <name>Squid Card Game</name>
+  <description>Compete in a deadly children's game for a chance at a massive cash prize.</description>
+  <plugin name="cordova-plugin-device" />
+  <access origin="*" />
+</widget>
